@@ -1,4 +1,5 @@
 FINN-CONNECT BANKING SYSTEM
+
 This is a simple bank Management System developed in Java using Java Swing for the user interface and MySQL for the database. The application allows users to perform basic bank operations such as balance inquiries, deposits, withdrawals, and transaction history viewing.
 
 Features:
